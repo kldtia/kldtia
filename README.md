@@ -1,6 +1,6 @@
-- 👋🏾 Hi, I’m @kldtia
+- 👋🏾 Hi, I’m Katia 
 - 👀 I’m interested Blockchain, Web3 and NFT's
-- 🌱 I’m currently learning about Web3 Development to get out of my comfort zone as a non-coder to share my expereince 
+- 🌱 I’m currently learning about Web3 Development to transition into Developer Relations
 - 💞️ I’m looking to collaborate on basic Web3 projects 
 - 📫 How to reach me follow me on Twitter at katiascylife 
 
